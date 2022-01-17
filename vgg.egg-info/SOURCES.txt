@@ -1,0 +1,7 @@
+setup.py
+vgg/blocks.py
+vgg/vgg_net.py
+vgg.egg-info/PKG-INFO
+vgg.egg-info/SOURCES.txt
+vgg.egg-info/dependency_links.txt
+vgg.egg-info/top_level.txt

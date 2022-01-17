@@ -1,0 +1,13 @@
+- ConvBlock: [3, 64]
+- MaxPool:
+- ConvBlock: [3, 128]
+- MaxPool:
+- ConvBlock: [3, 256]
+- ConvBlock: [3, 256]
+- MaxPool:
+- ConvBlock: [3, 512]
+- ConvBlock: [3, 512]
+- MaxPool:
+- ConvBlock: [3, 512]
+- ConvBlock: [3, 512]
+- MaxPool:
